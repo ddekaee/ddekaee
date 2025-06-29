@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Keenaanash0.png" width="120" style="border-radius: 50%;" alt="GitHub Profile Picture" />
+</p>
+
 <h1 align="center">Arya Deka Al-Hadid</h1>
 <p align="center"><strong>CEO @ ScriptKuy | Programmer | Trader</strong></p>
-
-<p align="center">
-  <img src="https://media.githubusercontent.com/media/keenaaassets/branding/main/terminal-clean.gif" width="300" alt="terminal-coding" />
-</p>
 
 ---
 
