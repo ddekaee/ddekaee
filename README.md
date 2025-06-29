@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Hi, I’m Keenaan Ash — a programmer, trader, and founder of **ScriptKuy**,  
+Hi, I’m Arya Deka Al-Hadid a programmer, trader, and founder of **ScriptKuy**,  
 a digital service company focused on building powerful tools and clean systems.
 
 I specialize in building automation, modern web apps, and Web3 solutions that are fast, secure, and scalable.
@@ -53,7 +53,7 @@ I specialize in building automation, modern web apps, and Web3 solutions that ar
 
 ## 📬 Contact
 
-- 📧 Email: keenaanash0@gmail.com  
+- 📧 Email: aryadekaalhadidd@gmail.com  
 - 🏢 Brand: [ScriptKuy](#) (Website soon)  
 - 🧠 Motto: *"Keep it clean. Make it real. Scale it fast."*
 
