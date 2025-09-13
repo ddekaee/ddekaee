@@ -43,8 +43,8 @@ I love building tools, apps, and automation that solve real-world problems, whil
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keenaanash0&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keenaanash0&hide_border=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddekaee&show_icons=true&hide_border=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddekaee&hide_border=true&theme=default" width="48%" />
 </p>
 
 ---
