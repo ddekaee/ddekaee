@@ -7,19 +7,22 @@
 
 ---
 
-## 👋 About Me
+## 👑 About Me
 
-Hi, I’m Arya Deka Al-Hadid — a programmer, designer, and security enthusiast with a passion for clean code and modern systems.  
-I love building tools, apps, and automation that solve real-world problems, while also exploring trading and market structures.
+I am **Arya Deka Al-Hadid**, a man of discipline and vision.  
+A programmer by craft, a designer by creativity, a guardian of security, and a trader by strategy.  
+
+I build with precision, design with clarity, protect with vigilance, and trade with calculated confidence.  
+For me, every line of code and every decision is a reflection of strength, order, and purpose.  
 
 ---
 
 ## 🧠 What I Do
 
-- 👨‍💻 Code fullstack systems with modern stacks  
-- 🎨 Design intuitive and functional interfaces  
-- 🛡️ Explore cybersecurity and system hardening  
-- 📊 Trade crypto and study market structure  
+- 👨‍💻 Develop fullstack systems with modern technologies  
+- 🎨 Craft designs that embody elegance and functionality  
+- 🛡️ Strengthen digital systems with cybersecurity practices  
+- 📊 Trade with discipline and a focus on structure  
 
 ---
 
@@ -44,7 +47,11 @@ I love building tools, apps, and automation that solve real-world problems, whil
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ddekaee&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddekaee&hide_border=true&theme=default" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddekaee&theme=react-dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ddekaee/ddekaee/blob/main/github-metrics.svg" width="95%" />
 </p>
 
 ---
@@ -52,10 +59,10 @@ I love building tools, apps, and automation that solve real-world problems, whil
 ## 📬 Contact
 
 - 📧 Email: aryadekaalhadidd@gmail.com  
-- 🧠 Motto: *"Keep it clean. Make it real. Scale it fast."*
+- 🧠 Philosophy: *"Strength in discipline. Power in knowledge. Elegance in simplicity."*
 
 ---
 
 <p align="center">
-  <sub>Simple is powerful. Code with purpose.</sub>
+  <sub>Silent. Focused. Relentless.</sub>
 </p>
