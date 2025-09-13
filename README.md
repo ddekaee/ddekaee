@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Keenaanash0.png" width="120" style="border-radius: 50%;" alt="GitHub Profile Picture" />
+  <img src="https://github.com/ddekaee.png" width="120" style="border-radius: 50%;" alt="GitHub Profile Picture" />
 </p>
 
 <h1 align="center">Arya Deka Al-Hadid</h1>
