@@ -46,8 +46,8 @@ For me, every line of code and every decision is a reflection of strength, order
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddekaee&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddekaee&theme=react-dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddekaee&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddekaee&theme=tokyo-night" width="48%" />
 </p>
 
 <p align="center">
@@ -64,5 +64,5 @@ For me, every line of code and every decision is a reflection of strength, order
 ---
 
 <p align="center">
-  <sub>Silent. Focused. Relentless.</sub>
+  <sub>Silent, Focused, Relentless.</sub>
 </p>
