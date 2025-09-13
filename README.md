@@ -3,25 +3,23 @@
 </p>
 
 <h1 align="center">Arya Deka Al-Hadid</h1>
-<p align="center"><strong>CEO @ ScriptKuy | Programmer | Trader</strong></p>
+<p align="center"><strong>Programmer | Designer | Cyber Security | Trader</strong></p>
 
 ---
 
 ## 👋 About Me
 
-Hi, I’m Arya Deka Al-Hadid a programmer, trader, and founder of **ScriptKuy**,  
-a digital service company focused on building powerful tools and clean systems.
-
-I specialize in building automation, modern web apps, and Web3 solutions that are fast, secure, and scalable.
+Hi, I’m Arya Deka Al-Hadid — a programmer, designer, and security enthusiast with a passion for clean code and modern systems.  
+I love building tools, apps, and automation that solve real-world problems, while also exploring trading and market structures.
 
 ---
 
 ## 🧠 What I Do
 
 - 👨‍💻 Code fullstack systems with modern stacks  
-- 🛠 Develop tools for automation, monitoring, and security  
+- 🎨 Design intuitive and functional interfaces  
+- 🛡️ Explore cybersecurity and system hardening  
 - 📊 Trade crypto and study market structure  
-- 💡 Design real-world Web3 utilities and smart contracts
 
 ---
 
@@ -54,7 +52,6 @@ I specialize in building automation, modern web apps, and Web3 solutions that ar
 ## 📬 Contact
 
 - 📧 Email: aryadekaalhadidd@gmail.com  
-- 🏢 Brand: [ScriptKuy](#) (Website soon)  
 - 🧠 Motto: *"Keep it clean. Make it real. Scale it fast."*
 
 ---
