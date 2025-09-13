@@ -51,7 +51,7 @@ For me, every line of code and every decision is a reflection of strength, order
 </p>
 
 <p align="center">
-  <img src="https://github.com/ddekaee/ddekaee/blob/main/github-metrics.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/ddekaee/ddekaee/main/github-metrics.svg" width="95%" />
 </p>
 
 ---
@@ -62,7 +62,6 @@ For me, every line of code and every decision is a reflection of strength, order
 - 🧠 Philosophy: *"Strength in discipline. Power in knowledge. Elegance in simplicity."*
 
 ---
-
 <p align="center">
-  <sub>Silent, Focused, Relentless.</sub>
+  <sup>© 2025 Arya Deka Al-Hadid — All Rights Reserved.</sup>
 </p>
