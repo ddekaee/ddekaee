@@ -5,12 +5,18 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # atau sesuai kebutuhan
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Generate Metrics SVG
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
@@ -22,16 +28,14 @@ jobs:
           plugin_followup: yes
           plugin_stars: yes
 
-          # Ganti theme/layout lama ke template
+          # Gunakan template & config_presets bukan theme/layout/color
           template: classic
           config_presets: github
 
-          # Kalau mau custom warna (ganti theme/color lama)
+          # Kalau mau override CSS spesial
           extras_css: |
             :root {
-              --color-calendar-graph-day-bg: #161B22;
-              --color-calendar-graph-day-L1-bg: #FFD700; # emas
-              --color-calendar-graph-day-L2-bg: #DAA520;
-              --color-calendar-graph-day-L3-bg: #B8860B;
-              --color-calendar-graph-day-L4-bg: #8B7500;
+              /* contoh override warna */
+              --color-calendar-graph-day-bg: #161b22;
+              --color-calendar-graph-day-L1-bg: #FFD700;
             }
