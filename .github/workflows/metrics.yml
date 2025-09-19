@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # atau sesuai kebutuhan
+  contents: write   
 
 jobs:
   build:
@@ -28,14 +28,11 @@ jobs:
           plugin_followup: yes
           plugin_stars: yes
 
-          # Gunakan template & config_presets bukan theme/layout/color
           template: classic
           config_presets: github
 
-          # Kalau mau override CSS spesial
           extras_css: |
             :root {
-              /* contoh override warna */
               --color-calendar-graph-day-bg: #161b22;
               --color-calendar-graph-day-L1-bg: #FFD700;
             }
