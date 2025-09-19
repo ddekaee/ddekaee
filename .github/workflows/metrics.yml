@@ -22,8 +22,16 @@ jobs:
           plugin_followup: yes
           plugin_stars: yes
 
-          theme: dark
+          # Ganti theme/layout lama ke template
+          template: classic
+          config_presets: github
 
-          layout: compact
-
-          color: "#FFD700"
+          # Kalau mau custom warna (ganti theme/color lama)
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #161B22;
+              --color-calendar-graph-day-L1-bg: #FFD700; # emas
+              --color-calendar-graph-day-L2-bg: #DAA520;
+              --color-calendar-graph-day-L3-bg: #B8860B;
+              --color-calendar-graph-day-L4-bg: #8B7500;
+            }
